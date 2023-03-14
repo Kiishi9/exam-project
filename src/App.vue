@@ -16,3 +16,9 @@ export default {
   router
 }
 </script>
+
+<style>
+.App {
+  background-color: antiquewhite;
+}
+</style>
