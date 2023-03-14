@@ -1,15 +1,12 @@
 <template>
   <div class="hello">
-    Hello {{msg}}
+    Hello, You just hit the rock 🥊. This is NotFound
   </div>
 </template>
 
 <script>
 export default {
   name: 'Notfound-component',
-  props: {
-    msg: String
-  }
 }
 </script>
 
